@@ -1,0 +1,10 @@
+$base-color: #97d279;
+$text-color: #090b08;
+$border-color:  #000;
+$background-color: #ecffe9;
+
+@mixin text {
+  max-width: 700px;
+  text-align: center;
+  padding: 20px;
+}
